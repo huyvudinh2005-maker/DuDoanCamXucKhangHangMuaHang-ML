@@ -1,1 +1,4 @@
-
+Bước 1: vào kaggle
+bước 2: vào phần dataset
+bước 3: search Customer Sentiment Dataset
+bước 4 : tìm dataset có tên là Customer Sentiment Dataset
